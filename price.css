@@ -5,6 +5,11 @@
     background-color: #F5F5F5;
 }
 
+.background{
+    width: 100%;
+    background-color: #F5F5F5;
+}
+
 .price__title {
     display: flex;
     width: 1170px;
