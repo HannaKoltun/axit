@@ -8,30 +8,6 @@
     margin: 0 auto;
 }
 
-.awesome__heading {
-    padding: 100px 10px 10px 10px;
-    height: 100px;
-    font-family: Raleway;
-    color: #000;
-    text-align: center;
-    font-size: 36px;
-}
-
-.awesome__line {
-    width: 200px;
-    border: 1px solid #EC7979;
-    margin: 0 auto;
-}
-
-
-.awesome__subtitle {
-    padding: 40px;
-    height: 20px;
-    font-family: Raleway;
-    color: #86878B;
-    text-align: center;
-    font-size: 18px;
-}
 
 .basic-field {
     width: 100%;
