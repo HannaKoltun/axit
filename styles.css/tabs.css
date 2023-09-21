@@ -18,7 +18,7 @@
 
 .tabs__micro-tab1 {
     border-radius: 5px 5px 0px 0px;
-    margin-top: 9px;
+    margin-top: 99px;
     border-top: 1px solid #C6CBCD;
     border-right: 1px solid #C6CBCD;
     border-left: 1px solid #C6CBCD;
@@ -34,7 +34,7 @@
 
 
 .tabs__micro-tab2 {
-    margin-top: 9px;
+    margin-top: 99px;
     text-align: center;
     line-height: 2.5;
     margin-left: -4px;
@@ -56,9 +56,22 @@
 }
 
 
+.tabs__micro-tab2:hover + .tabs__micro-tab1{
+    margin-top: 99px;
+    text-align: center;
+    line-height: 2.5;
+    margin-left: -4px;
+    border-bottom: 1px solid #C6CBCD;
+    vertical-align: top;
+    display: inline-block;
+    width: 203px;
+    height: 40px;
+    cursor: pointer;
+}
+
 
 .tabs__micro-tab3 {
-    margin-top: 9px;
+    margin-top: 99px;
     text-align: center;
     line-height: 2.5;
     margin-left: -4px;
@@ -78,7 +91,7 @@
 
 
 .tabs__micro-tab4 {
-    margin-top: 9px;
+    margin-top: 99px;
     margin-left: -4px;
     border-bottom: 1px solid #C6CBCD;
     vertical-align: top;

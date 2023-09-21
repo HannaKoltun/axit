@@ -1,0 +1,49 @@
+.design {
+    position: relative;
+    width: 100%;
+    height: 442px;
+    background-image: url("../img/image.png");
+}
+
+
+.design-black {
+    position: absolute;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 442px;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.502);
+}
+
+
+.link {
+    text-decoration: none;
+}
+
+.link-button {
+    margin-right: 250px;
+    line-height: 3;
+    cursor: pointer;
+    margin-left: 90px;
+    width: 370px;
+    height: 58px;
+    background-color: none;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    color: #FFF;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0 auto;
+    margin-top: 73px;
+
+}
+
+.link-button:hover {
+    background-color: none;
+    color: #EC7979;
+    border: 1px solid #EC7979;
+}
