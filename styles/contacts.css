@@ -17,7 +17,7 @@
 
 
 
-.contact__link-button__hover {
+.contact__link-button_hover {
     line-height: 3;
     cursor: pointer;
     width: 370px;
@@ -31,7 +31,7 @@
     margin: 0 auto;
 }
 
-.contact__link-button__hover:hover {
+.contact__link-button_hover:hover {
     background-color: white;
     color: #000;
     border: 1px solid #C6CBCD;

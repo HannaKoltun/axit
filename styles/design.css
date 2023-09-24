@@ -22,7 +22,7 @@
     text-decoration: none;
 }
 
-.link-button__hover {
+.link-button_hover {
     line-height: 3;
     cursor: pointer;
     width: 370px;
@@ -40,7 +40,7 @@
 
 }
 
-.link-button__hover:hover {
+.link-button_hover:hover {
     background-color: none;
     color: #EC7979;
     border: 1px solid #EC7979;

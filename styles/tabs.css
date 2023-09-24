@@ -33,7 +33,7 @@
 }
 
 
-.tabs__micro-tab2__hover {
+.tabs__micro-tab2_hover {
     margin-top: 99px;
     text-align: center;
     line-height: 2.5;
@@ -48,7 +48,7 @@
 
 }
 
-.tabs__micro-tab2__hover:hover {
+.tabs__micro-tab2_hover:hover {
     border-radius: 5px 5px 0px 0px;
     border: 1px solid #C6CBCD;
     color: black;
@@ -57,7 +57,7 @@
 
 
 
-.tabs__micro-tab3__hover {
+.tabs__micro-tab3_hover {
     margin-top: 99px;
     text-align: center;
     line-height: 2.5;
@@ -69,7 +69,7 @@
     height: 40px;
 }
 
-.tabs__micro-tab3__hover:hover {
+.tabs__micro-tab3_hover:hover {
     border-radius: 5px 5px 0px 0px;
     border: 1px solid #C6CBCD;
     color: black;
@@ -137,7 +137,7 @@
     text-decoration: none;
 }
 
-.tabs-left__link-button__hover {
+.tabs-left__link-button_hover {
     margin-right: 250px;
     line-height: 3;
     cursor: pointer;
@@ -156,7 +156,7 @@
 
 }
 
-.tabs-left__link-button__hover:hover {
+.tabs-left__link-button_hover:hover {
     background-color: white;
     color: #000;
     border: 1px solid #C6CBCD;
