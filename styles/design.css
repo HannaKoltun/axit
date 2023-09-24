@@ -22,11 +22,9 @@
     text-decoration: none;
 }
 
-.link-button {
-    margin-right: 250px;
+.link-button__hover {
     line-height: 3;
     cursor: pointer;
-    margin-left: 90px;
     width: 370px;
     height: 58px;
     background-color: none;
@@ -42,7 +40,7 @@
 
 }
 
-.link-button:hover {
+.link-button__hover:hover {
     background-color: none;
     color: #EC7979;
     border: 1px solid #EC7979;

@@ -61,7 +61,7 @@
     font-weight: 400;
     line-height: normal;
     text-transform: uppercase;
-}
+} 
 
 .head__line-d {
     width: 170px;
@@ -82,30 +82,3 @@
     line-height: normal;
 }
 
-.link {
-    text-decoration: none;
-}
-
-.link-button {
-    margin-right: 250px;
-    line-height: 3;
-    cursor: pointer;
-    margin-left: 90px;
-    width: 370px;
-    height: 58px;
-    background-color: none;
-    border: 1px solid #ffffff;
-    border-radius: 10px;
-    color: #FFF;
-    text-align: center;
-    font-family: Open Sans;
-    font-size: 18px;
-    font-weight: 600;
-
-}
-
-.link-button:hover {
-    background-color: none;
-    color: #EC7979;
-    border: 1px solid #EC7979;
-}
