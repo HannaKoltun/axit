@@ -8,7 +8,7 @@
 }
 
 
-.customer__main {
+.customer-main {
     display: flex;
     justify-content: space-between;
     width: 1170px;
@@ -17,7 +17,7 @@
 }
 
 
-.customer__main__field {
+.customer-main__field {
     display: flex;
     align-items: center;
     width: 370px;
@@ -25,7 +25,7 @@
     position: relative;
 }
 
-.customer__main__field-sticker {
+.customer-main__field-sticker {
     display: flex;
     align-items: center;
     position: absolute;
@@ -59,7 +59,7 @@
 }
 
 
-.regtangle__title {
+.regtangle-title {
     position: absolute;
     bottom: 10px;
     left: 100px;
@@ -75,7 +75,7 @@
 }
 
 
-.regtangle__subtitle {
+.regtangle-subtitle {
     position: absolute;
     bottom: 0;
     left: 100px;

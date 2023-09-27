@@ -10,7 +10,7 @@
     height: 1026px;
 }
 
-.axit__container {
+.axit-container {
     width: 1170px;
     height: 1026px;
     display: flex;
@@ -20,14 +20,14 @@
 }
 
 
-.axit__container-l {
+.axit-container-l {
     width: 700px;
     height: 550px;
 }
 
 
 
-.axit__container-r {
+.axit-container-r {
     width: 470px;
     height: 1026px;
     display: flex;
@@ -35,7 +35,7 @@
     align-items: center;
 }
 
-.axit__container-l__logotype {
+.axit-container-l-logotype {
     width: 165px;
     height: 55px;
     display: flex;
@@ -46,7 +46,7 @@
 
 
 
-.axit__container-l__title {
+.axit-container-l-title {
     width: 670px;
     color: #FFF;
     font-family: Raleway;
@@ -60,7 +60,7 @@
 
 
 
-.axit__container-l__line {
+.axit-container-l-line {
     width: 170px;
     border: 1px solid #ffffff;
     margin-bottom: 42px;
@@ -68,7 +68,7 @@
 
 
 
-.axit__container-l__subtitle {
+.axit-container-l-subtitle {
     width: 270px;
     color: #FFF;
     font-family: Raleway;
@@ -81,7 +81,7 @@
 
 
 
-.axit__container-l__button_hover {
+.axit-container-l__button {
     display: flex;
     width: 270px;
     height: 58px;
@@ -99,7 +99,7 @@
     border: 1px solid #ffffff;
 }
 
-.axit__container-l__button_hover:hover {
+.axit-container-l__button_hover:hover {
     background-color: none;
     color: #EC7979;
     border: 1px solid #EC7979;
@@ -107,7 +107,7 @@
 
 
 
-.axit__container-r__box {
+.axit-container-r-box {
     width: 470px;
     height: 450px;
     flex-shrink: 0;
@@ -121,7 +121,7 @@
 }
 
 
-.axit__container-r__box-title {
+.axit-container-r-box-title {
     color: #333;
     font-family: Open Sans;
     font-size: 24px;
@@ -138,7 +138,7 @@
 
 
 
-.axit__container-r__box-btn_hover {
+.axit-link__button {
     width: 470px;
     height: 60px;
     border-radius: 0px 0px 10px 10px;
@@ -166,7 +166,7 @@
 }
 
 
-.axit__container-r__box-btn_hover:hover {
+.axit-link__button_hover:hover {
     display: flex;
     width: 470px;
     height: 60px;

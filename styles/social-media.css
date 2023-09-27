@@ -7,7 +7,7 @@
     justify-content: space-between;
 }
 
-.sm__container {
+.sm-container {
     width: 1170px;
     height: 140px;
     margin: 0 auto;
@@ -15,12 +15,12 @@
     flex-direction: row;
 }
 
-.sm__left {
+.sm-left {
     width: 500px;
     height: 140px;
 }
 
-.sm__right {
+.sm-right {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -30,12 +30,12 @@
     height: 140px;
 }
 
-.sm__right__icon {
+.sm-right__icon {
     width: 70px;
     height: 70px;
 }
 
-.sm__left__title {
+.sm-left__title {
     width: 470px;
     height: 60px;
     flex-shrink: 0;
@@ -48,7 +48,7 @@
     text-transform: capitalize;
 }
 
-.sm__left__subtitle {
+.sm-left__subtitle {
     width: 470px;
     color: #86878B;
     font-family: Raleway;

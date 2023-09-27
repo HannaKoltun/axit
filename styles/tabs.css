@@ -33,7 +33,7 @@
 }
 
 
-.tabs__micro-tab2_hover {
+.tabs__micro-tab2 {
     margin-top: 99px;
     text-align: center;
     line-height: 2.5;
@@ -57,7 +57,7 @@
 
 
 
-.tabs__micro-tab3_hover {
+.tabs__micro-tab3 {
     margin-top: 99px;
     text-align: center;
     line-height: 2.5;
@@ -137,7 +137,7 @@
     text-decoration: none;
 }
 
-.tabs-left__link-button_hover {
+.tabs-left__link-button {
     margin-right: 250px;
     line-height: 3;
     cursor: pointer;

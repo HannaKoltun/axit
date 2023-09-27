@@ -7,17 +7,16 @@
     align-items: center;
 }
 
-.contacts__container {
+.contacts-container {
     width: 1170px;
     height: 622px;
     display: flex;
     flex-direction: column;
-
 }
 
 
 
-.contact__link-button_hover {
+.contact-link-button {
     line-height: 3;
     cursor: pointer;
     width: 370px;
@@ -31,22 +30,24 @@
     margin: 0 auto;
 }
 
-.contact__link-button_hover:hover {
+.contact-link-button_hover:hover {
     background-color: white;
     color: #000;
     border: 1px solid #C6CBCD;
 }
 
 
-.input__container {
+.input-container {
     height: 335px;
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
     margin-top: 20px;
 }
 
 
-.contacts__container-l {
+.contacts-container-l {
     width: 50%;
     display: flex;
     justify-content: center;
@@ -54,7 +55,7 @@
 
 }
 
-.contacts__container-r {
+.contacts-container-r {
     width: 50%;
     display: flex;
     justify-content: center;
@@ -64,7 +65,7 @@
 
 
 
-.contacts__container-l-ib {
+.contacts-container-l-ib {
     height: 200px;
     width: 487px;
     display: flex;
@@ -99,7 +100,7 @@
 
 
 
-.contacts__container-r-ib {
+.contacts-container-r-ib {
     height: 200px;
     width: 487px;
     display: flex;

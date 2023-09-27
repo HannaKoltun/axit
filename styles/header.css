@@ -3,7 +3,7 @@
     background-color: black;
 }
 
-.head__container {
+.head-container {
     width: 1170px;
     height: 76px;
     margin: 0 auto;
@@ -13,13 +13,13 @@
 
 }
 
-.head__container__l {
+.head-container-l {
     width: 400px;
     height: 76px;
 }
 
 
-.head__container__r {
+.head-container-r {
     width: 770px;
     height: 76px;
     display: flex;
@@ -44,11 +44,11 @@
 }
 
 
-.navigation:hover {
-    border: 2px solid #ffffff;
+.navigation_hover:hover {
+    border: 1px solid #ffffff;
 }
 
-.head__container__rm{
+.head-container-rm{
     width: 570px;
     height: 76px;
     display: flex;
