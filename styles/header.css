@@ -61,38 +61,50 @@
 
 
 
-
 @media screen and (max-width:1200px) {
 
     .head-container {
-        width: 470px;
+        width: 100%;
         height: 75px;
+        display: flex;
+        justify-content: space-between;
     }
 
 
     .head-container-r {
         width: 234px;
         height: 75px;
-        background-color: aquamarine;
         display: flex;
         align-items: center;
+        justify-content: end;
     }
 
     .head-container-l {
-        width: 234px;
+        width: 200px;
         height: 75px;
+        display: flex;
+        justify-content: center;
     }
 
     .head-container-rm {
         display: none;
     }
 
+    .burger {
+        width: 100px;
+        height: 75px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
 
-
-
-
-
+    .line {
+        margin-bottom: 6px;
+        width: 40px;
+        height: 6px;
+        background-color: rgb(255, 255, 255);
+    }
 
 
 }
-
