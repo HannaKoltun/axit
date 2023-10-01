@@ -50,3 +50,34 @@
     font-size: 18px;
     font-weight: 400;
 }
+
+
+
+
+@media screen and (max-width:1200px){
+
+
+
+    .awesome {
+        width: 450px;
+        height: 1530px;
+        margin: 0 auto;
+    }
+
+
+    .basic-field{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 450px ;
+        height: 1190px;
+    }
+
+    .sections{
+        height: 400px;
+    }
+
+
+
+}

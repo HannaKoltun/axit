@@ -145,14 +145,11 @@
     width: 270px;
     height: 58px;
     background-color: #EC7979;
-    border-radius: 10px;
     color: #FFF;
     text-align: center;
     font-family: Open Sans;
     font-size: 18px;
     font-weight: 600;
-
-
 
 }
 
@@ -160,4 +157,77 @@
     background-color: white;
     color: #000;
     border: 1px solid #C6CBCD;
+}
+
+
+
+
+@media screen and (max-width:1200px) {
+
+.tabs-right{
+    display: none;
+}
+
+.tabs {
+    width: 470px;
+    height: 800px;
+}
+
+
+.tabs__micro-tab4{
+    display: none;
+}
+
+.tabs-left {
+    display: inline-block;
+    width: 450px;
+    vertical-align: top;
+    height: 620px;
+}
+
+
+.tabs-field {
+    width: 451px;
+    height: 620px;
+    margin: 0 auto;
+}
+
+
+.tabs-left__title {
+    margin-top: 15px;
+    width: 242px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+.tabs-left__subtitle {
+    width: 277px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+
+.tabs__micro-tab1 {
+    width: 155px;
+    margin-left: 9px;
+}
+
+.tabs__micro-tab2 {
+    width: 154.5px;
+}
+
+.tabs__micro-tab3 {
+    width: 140px;
+}
+
+
+.tabs-left__link-button {
+    cursor: pointer;
+    width: 270px;
+    height: 58px;
+
+
+}
+
 }

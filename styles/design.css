@@ -45,3 +45,22 @@
     color: #EC7979;
     border: 1px solid #EC7979;
 }
+
+
+
+
+@media screen and (max-width:1200px){
+
+    .design {
+        width: 100%;
+        height: 445px;
+        margin: 0 auto;
+    }
+
+
+    .design-black {
+        width:100%;
+        height: 445px;
+        margin: 0 auto;
+    }
+}

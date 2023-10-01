@@ -104,12 +104,12 @@
     height: 200px;
     width: 487px;
     display: flex;
-justify-content: space-between;
-flex-direction: column;
+    justify-content: space-between;
+    flex-direction: column;
 }
 
 
-textarea{
+textarea {
     height: 200px;
     width: 487px;
     border-bottom: 1px solid #BDBDBD;
@@ -120,4 +120,35 @@ textarea{
     font-family: Raleway;
     font-weight: 400;
     line-height: normal;
+}
+
+
+
+
+
+@media screen and (max-width:1200px) {
+
+   
+    .contacts {
+        height: 950px;
+        margin: 0 auto;
+    }
+   
+    .contacts-container {
+        width: 450px;
+        height: 955px;
+        margin: 0 auto;
+    }
+
+
+    .input-container {
+        height: 570px;
+        flex-direction: column;
+    }
+
+
+    textarea {
+margin-top: 40px;
+    }
+
 }

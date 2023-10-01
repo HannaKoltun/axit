@@ -20,12 +20,7 @@
     height: 630px;
 }
 
-.element {
-    width: 370px;
-    height: 510px;
-    display: flex;
-    flex-direction: column;
-}
+
 
 .element__block {
     display: flex;
@@ -102,3 +97,44 @@
     margin-bottom: 50px;
     transition: margin-bottom 0.7s
 } 
+
+
+
+
+
+
+@media screen and (max-width:1200px){
+
+.price {
+    width: 450px;
+    height: 1530px;
+}
+
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 450px;
+    height: 1530px;
+}
+
+
+.background{
+    height: 2000px;
+}
+
+
+.element__block:nth-child(9) {
+margin-bottom: 40px;
+}
+
+
+.element__mody_hover:hover {
+    margin-bottom: 0;
+    transition: 0
+
+}
+
+}

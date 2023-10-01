@@ -215,7 +215,84 @@ input {
 }
 
 
-p{
+p {
     color: #EC7979;
     margin: 0px 6px 0px 7px;
+}
+
+
+
+@media screen and (max-width:1200px) {
+
+.axit{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    .axit-container-l-logotype {
+        display: none;
+    }
+
+    .axit-container-l {
+        width: 450px;
+        height: 1530px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 84px;
+    }
+
+    .axit-container-r {
+        width: 450px;
+        height: 600px;
+    }
+
+    .axit {
+        width: 100%;
+        height: 1100px;
+    }
+
+    .axit-container {
+        width: 100%;
+        height: 1100px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .axit-black {
+        width: 100%;
+        height: 1100px;
+    }
+
+    .axit-container-l-title {
+        text-align: center;
+        width: 400px;
+        height: 168px;
+        color: #FFF;
+        font-family: Raleway;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        text-transform: uppercase;
+
+    }
+
+    .axit-container-l-subtitle {
+        width: 288px;
+        height: 32px;
+        font-size: 14px;
+        text-align: center;
+    }
+
+
+    .axit-container-l-line {
+        margin-top: 42px;
+        width: 135px;
+    }
+
+    .axit-container-l__button{
+        margin-bottom: 56px;
+    }
+
 }
