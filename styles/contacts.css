@@ -152,3 +152,24 @@ margin-top: 40px;
     }
 
 }
+
+
+
+@media screen and (max-width:509px){
+
+
+    .width {
+        width: 450px;
+    }
+
+
+    textarea {
+        width: 450px;
+
+}
+
+.l-input-box {
+
+    width: 450px;
+}
+}

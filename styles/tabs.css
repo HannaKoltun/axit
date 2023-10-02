@@ -231,3 +231,19 @@
 }
 
 }
+
+
+@media screen and (max-width:509px) {
+    
+    .tabs {
+        width: 450px;
+    }
+
+    .tabs__micro-tab3 {
+        width: 118px;
+    }
+
+    .tabs-field {
+        width: 429px;
+    }
+}

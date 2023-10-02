@@ -296,3 +296,20 @@ p {
     }
 
 }
+
+
+
+@media screen and (max-width:509px) {
+
+
+    .axit-container-r-box {
+        width: 400px;
+
+    }
+    
+    
+.axit-link__button {
+    width: 400px;
+
+}
+    }

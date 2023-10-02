@@ -72,7 +72,7 @@
 
 
     .head-container-r {
-        width: 234px;
+        width: 100px;
         height: 75px;
         display: flex;
         align-items: center;
@@ -105,6 +105,34 @@
         height: 6px;
         background-color: rgb(255, 255, 255);
     }
+
+
+}
+
+@media screen and (max-width:509px) {
+    
+    .head-container {
+        width: 100%;
+    }
+    
+    
+    .head-container-r {
+        width: 100px;
+    }
+    
+    nav{
+        width: 200px;
+    }
+
+    .burger{
+        width: 50px;
+    }
+    
+    
+    .head-container-rm {
+        width: 400px;
+    }
+
 
 
 }
