@@ -113,17 +113,58 @@
         width: 450px;
         height: 150px;
     }
-    
+
     .head__line-d {
         width: 170px;
         border: 1px solid #ffffff;
         margin: 0 auto;
     }
-    
-    
+
+
     .head__subtitle-d {
         width: 450px;
 
     }
 
+}
+
+
+@media screen and (max-width:509px) {
+
+    .head__title {
+        width: 310px;
+        height: 130px;
+        font-size: 20px;
+    }
+
+    .head__subtitle {
+        margin-top: 40px;
+        width: 310px;
+        font-size: 14px;
+    }
+
+    .header {
+        width: 328px;
+    }
+
+
+
+
+
+    .head__title-d {
+        width: 310px;
+        height: 130px;
+        font-size: 20px;
+    }
+
+
+    .head__subtitle-d {
+        margin-top: 40px;
+        width: 310px;
+        font-size: 14px;
+    }
+
+    .head__line-d {
+        width: 135px;
+    }
 }

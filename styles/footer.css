@@ -73,7 +73,8 @@
     .fc-top {
         width: 440px;
     }
-    .fc-bottom{
+
+    .fc-bottom {
         width: 440px;
     }
 
@@ -91,4 +92,19 @@
     }
 
 
+}
+
+
+@media screen and (max-width:1200px) {
+    .footer-container {
+        width: 328px;
+    }
+
+    .fc-top {
+        width: 280px;
+    }
+
+    .fc-bottom {
+        width: 280px;
+    }
 }

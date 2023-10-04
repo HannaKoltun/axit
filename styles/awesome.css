@@ -54,7 +54,7 @@
 
 
 
-@media screen and (max-width:1200px){
+@media screen and (max-width:1200px) {
 
 
 
@@ -65,19 +65,49 @@
     }
 
 
-    .basic-field{
+    .basic-field {
         display: flex;
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        width: 450px ;
+        width: 450px;
         height: 1190px;
     }
 
-    .sections{
+    .sections {
         height: 400px;
     }
 
 
 
+}
+
+
+@media screen and (max-width:509px) {
+
+    .awesome {
+        width: 328px;
+    }
+
+    .sections {
+        width: 310px;
+    }
+
+    .basic-field {
+        width: 315px;
+    }
+
+    .sections__btext {
+        margin-bottom: 20px;
+    }
+
+    .micro-field__stext {
+        width: 310px;
+    }
+
+    .micro-field {
+        margin: auto;
+        width: 310px;
+        height: 98px;
+    }
 }

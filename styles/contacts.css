@@ -128,12 +128,12 @@ textarea {
 
 @media screen and (max-width:1200px) {
 
-   
+
     .contacts {
         height: 950px;
         margin: 0 auto;
     }
-   
+
     .contacts-container {
         width: 450px;
         height: 955px;
@@ -148,28 +148,54 @@ textarea {
 
 
     textarea {
-margin-top: 40px;
+        margin-top: 40px;
     }
 
 }
 
 
 
-@media screen and (max-width:509px){
+@media screen and (max-width:509px) {
 
 
     .width {
-        width: 450px;
+        width: 328px;
+        margin: 0;
     }
 
 
     textarea {
         width: 450px;
 
-}
+    }
 
-.l-input-box {
+    .l-input-box {
 
-    width: 450px;
-}
+        width: 450px;
+    }
+
+    .contacts-container {
+        width: 328px;
+    }
+
+    .width {
+        width: 310px;
+    }
+
+    .contacts-container-l-ib {
+        width: 310px;
+    }
+
+    textarea {
+        width: 310px;
+    }
+
+    .contact-link-button {
+        width: 280px;
+    }
+
+
+    .l-input-box {
+        width: 310px;
+    }
 }

@@ -110,25 +110,25 @@
 }
 
 @media screen and (max-width:509px) {
-    
+
     .head-container {
         width: 100%;
     }
-    
-    
-    .head-container-r {
-        width: 100px;
-    }
-    
-    nav{
-        width: 200px;
-    }
 
-    .burger{
+
+    .head-container-r {
         width: 50px;
     }
-    
-    
+
+    nav {
+        width: 125px;
+    }
+
+    .burger {
+        width: 50px;
+    }
+
+
     .head-container-rm {
         width: 400px;
     }
